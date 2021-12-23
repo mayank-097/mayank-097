@@ -1,6 +1,4 @@
 
-@@ -1,4 +1,4 @@
-##Hey! I'm Mayank Singh Baliyan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Hey! I'm Mayank Singh Baliyan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub mayank-097](https://img.shields.io/github/followers/agrittiwari?label=follow&style=social)](https://github.com/mayank-097)
